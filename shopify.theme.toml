@@ -1,0 +1,3 @@
+[environment.development]
+store = "https://quickstart-06006bf6.myshopify.com/"
+
